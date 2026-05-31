@@ -1,2 +1,2 @@
 # ai-weekly-report-skill
-大学生周报生成任务 Skill 项目
+大学生每周学习复盘总结任务Skill项目
